@@ -1,2 +1,2 @@
 # TyHafke.github
-Git hub website from Ty Hafke
+GVSU student
