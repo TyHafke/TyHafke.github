@@ -17,11 +17,34 @@ My interests include statistical analysis, machine learning, network automation,
 
 ## Featured Projects
 
-### [Congressional Gerrymandering Analysis](https://github.com/TyHafke/gerrymandering-analysis)
+### [Gerrymandering Analysis](https://github.com/TyHafke/Gerrymandering-analysis)
 
-Statistical and geospatial analysis of congressional districts across five U.S. states using historical election data.
+Statistical and geospatial analysis of congressional districts across five U.S. states. Examines electoral imbalance, district compactness, competitiveness, and historical voting patterns using precinct-level election data.
 
-**Technologies:** R, tidyverse, ggplot2, sf
+**Technologies:** R, tidyverse, ggplot2, sf, lwgeom
+
+**Skills:** Geospatial analysis, statistical modeling, data manipulation, data visualization
+
+---
+
+### [DNS Resolver Performance Analysis](https://github.com/TyHafke/dns-resolver-performance-analysis)
+
+Experimental analysis comparing DNS lookup latency across Google, Cloudflare, Quad9, and GVSU Network. Utilizes a completely randomized design with 60 experimental trials and 480 DNS lookups.
+
+**Technologies:** SAS, DNS, Microsoft Excel
+
+**Skills:** Experimental design, ANOVA, hypothesis testing, statistical inference, network performance analysis
+
+---
+
+### [U.S. Disaster Declaration Trends](https://github.com/TyHafke/fema-disaster-trend-analysis)
+
+Exploratory analysis of nearly 70,000 FEMA records spanning 73 years. Investigates historical disaster declaration trends and incident categories through data aggregation and streamgraph visualization.
+
+**Technologies:** Python, pandas, Matplotlib, Jupyter Notebook
+
+**Skills:** Data cleaning, exploratory data analysis, time-series analysis, data visualization, reproducible research
+
 
 ## Professional Interests
 
